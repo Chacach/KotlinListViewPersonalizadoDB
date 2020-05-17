@@ -1,0 +1,2 @@
+rootProject.name='KotlinListViewPersonalizadoDB'
+include ':app'
